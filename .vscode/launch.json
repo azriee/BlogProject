@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "name": "Debug BlogProject",
+            "program": "${workspaceFolder:BlogProject}/.build/debug/BlogProject",
+            "args": [],
+            "cwd": "${workspaceFolder:BlogProject}",
+            "preLaunchTask": "swift: Build Debug BlogProject"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "name": "Release BlogProject",
+            "program": "${workspaceFolder:BlogProject}/.build/release/BlogProject",
+            "args": [],
+            "cwd": "${workspaceFolder:BlogProject}",
+            "preLaunchTask": "swift: Build Release BlogProject"
+        }
+    ]
+}
