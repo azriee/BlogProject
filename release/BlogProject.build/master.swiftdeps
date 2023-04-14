@@ -1,0 +1,11 @@
+version: "Swift version 5.8 (swift-5.8-RELEASE)"
+options: "59401228fa0435e0d5f3e535a5bc4957e20177a47d8c8887161d0abb2bec5594"
+build_start_time: [1681460345, 40525000]
+build_end_time: [1681460346, 474025000]
+inputs:
+  ? "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1681370894, 0]
+  "/home/ubuser/code/BlogProject/Sources/Managers/cliManager.swift": [1681459970, 0]
+  "/home/ubuser/code/BlogProject/Sources/Managers/views.swift": [1681456576, 0]
+  "/home/ubuser/code/BlogProject/Sources/Models/blog.swift": [1681457906, 0]
+  "/home/ubuser/code/BlogProject/Sources/main.swift": [1681460002, 0]

@@ -1,0 +1,9 @@
+version: "Swift version 5.8 (swift-5.8-RELEASE)"
+options: "59401228fa0435e0d5f3e535a5bc4957e20177a47d8c8887161d0abb2bec5594"
+build_start_time: [1681370894, 592152000]
+build_end_time: [1681370895, 520707000]
+inputs:
+  ? "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1681370894, 0]
+  "/home/ubuser/code/BlogProject/Sources/Managers/CLIManager.swift": [1681370128, 0]
+  "/home/ubuser/code/BlogProject/Sources/main.swift": [1681370200, 0]

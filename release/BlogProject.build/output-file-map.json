@@ -1,0 +1,32 @@
+{
+  "": {
+    "dependencies": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/BlogProject.d",
+    "object": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/BlogProject.o",
+    "swift-dependencies": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/master.swiftdeps"
+  },
+  "/home/ubuser/code/BlogProject/Sources/Managers/cliManager.swift": {
+    "object": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Managers/cliManager.swift.o",
+    "swiftmodule": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Managers/cliManager~partial.swiftmodule",
+    "swift-dependencies": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Managers/cliManager.swiftdeps"
+  },
+  "/home/ubuser/code/BlogProject/Sources/Managers/views.swift": {
+    "object": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Managers/views.swift.o",
+    "swiftmodule": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Managers/views~partial.swiftmodule",
+    "swift-dependencies": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Managers/views.swiftdeps"
+  },
+  "/home/ubuser/code/BlogProject/Sources/Models/blog.swift": {
+    "object": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Models/blog.swift.o",
+    "swiftmodule": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Models/blog~partial.swiftmodule",
+    "swift-dependencies": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Models/blog.swiftdeps"
+  },
+  "/home/ubuser/code/BlogProject/Sources/main.swift": {
+    "object": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/main.swift.o",
+    "swiftmodule": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/main.swiftdeps"
+  },
+  "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/resource_bundle_accessor.swiftdeps"
+  }
+}

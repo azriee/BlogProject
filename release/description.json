@@ -1,0 +1,177 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+    "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject_BlogProject.resources/blog.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/Sources/blog.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject_BlogProject.resources/blog.json"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.BlogProject-release.module" : {
+      "executable" : "/home/ubuser/swift-5.8-RELEASE-ubuntu22.04/usr/bin/swiftc",
+      "importPath" : "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/Sources/Managers/cliManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/Sources/Managers/views.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/Sources/Models/blog.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/Sources/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<BlogProject-release.module-resources>"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "BlogProject",
+      "moduleOutputPath" : "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.swiftmodule",
+      "objects" : [
+        "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Managers/cliManager.swift.o",
+        "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Managers/views.swift.o",
+        "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Models/blog.swift.o",
+        "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/main.swift.o",
+        "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-linux-gnu",
+        "-swift-version",
+        "5",
+        "-O",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "BlogProject_main",
+        "-color-diagnostics"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Managers/cliManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Managers/views.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/Models/blog.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/home/ubuser/code/BlogProject/Sources/Managers/cliManager.swift",
+        "/home/ubuser/code/BlogProject/Sources/Managers/views.swift",
+        "/home/ubuser/code/BlogProject/Sources/Models/blog.swift",
+        "/home/ubuser/code/BlogProject/Sources/main.swift",
+        "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "BlogProject" : [
+      "/home/ubuser/swift-5.8-RELEASE-ubuntu22.04/usr/bin/swiftc",
+      "-module-name",
+      "BlogProject",
+      "-whole-module-optimization",
+      "-num-threads",
+      "8",
+      "-c",
+      "/home/ubuser/code/BlogProject/Sources/Managers/cliManager.swift",
+      "/home/ubuser/code/BlogProject/Sources/Managers/views.swift",
+      "/home/ubuser/code/BlogProject/Sources/Models/blog.swift",
+      "/home/ubuser/code/BlogProject/Sources/main.swift",
+      "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/BlogProject.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release",
+      "-target",
+      "x86_64-unknown-linux-gnu",
+      "-swift-version",
+      "5",
+      "-O",
+      "-g",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/home/ubuser/code/BlogProject/.build/x86_64-unknown-linux-gnu/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "BlogProject_main",
+      "-color-diagnostics",
+      "-driver-use-frontend-path",
+      "/home/ubuser/swift-5.8-RELEASE-ubuntu22.04/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "BlogProject" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  }
+}
